@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /boot
+mkdir -p /welcome/to/school
